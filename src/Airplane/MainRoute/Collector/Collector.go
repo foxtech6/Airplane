@@ -8,6 +8,6 @@ import (
 func Collector()  {
 	route.BlogRoute()
 
-
+	//custom Route
 	MainRoute.Airplane.Run()
 }
